@@ -1,0 +1,19 @@
+{
+  "name": "upupup",
+  "version": "1.0.0",
+  "description": "daydayup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novboy/upupup.git"
+  },
+  "author": "novboy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/novboy/upupup/issues"
+  },
+  "homepage": "https://github.com/novboy/upupup#readme"
+}
